@@ -162,6 +162,8 @@ body {
   height: 2px;
   border: 1px;
   color: #144480;
+  margin-bottom: 10px;
+  margin-top: 5px;
 }
 
 .icone__inicio::before {
