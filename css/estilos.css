@@ -157,6 +157,13 @@ body {
   background-color: var(--branco);
 }
 
+.retangulo {
+  width: 216px;
+  height: 2px;
+  border: 1px;
+  color: #144480;
+}
+
 .icone__inicio::before {
   content: url(../img/sidebar/home.png);
 }
